@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mahnoor Shahbaz 👋
 
-<!--
-**mahnoor-shahbaz/mahnoor-shahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student and aspiring Java Developer.
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
+Java programming
+Object Oriented Programming
+Problem solving and data structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Food Ordering System (Java)
+Student Management System (Java)
+
+## 🎯 Goal
+To become a professional software developer and contribute to real world software projects.
