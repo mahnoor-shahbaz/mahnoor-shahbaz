@@ -1,15 +1,36 @@
-Hi, I'm Mahnoor Shahbaz 👋  
-Software Engineering student and aspiring Java Developer.
+# 👋 Hi, I'm Mahnoor Shahbaz
 
-💻 Currently focusing on:
-Java Programming | Object-Oriented Programming (OOP) | Problem Solving | Data Structures
+🎓 Software Engineering student | 💻 Aspiring Java Developer
 
-🚀 Projects:
-- Food Ordering System (Java) – Console-based multi-restaurant ordering system with billing and validation logic
-- Student Management System (Java) – Managing student records using core Java concepts
+---
 
-🎯 Goal:
-To become a professional software developer by building strong problem-solving skills and real-world projects.
+## 🚀 About Me
+I’m a Software Engineering student focused on building strong programming fundamentals and real-world problem-solving skills.  
+I enjoy learning how software works under the hood and turning logic into working applications.
 
-📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/mahnoor-shahbaz-se/
+---
+
+## 💻 Currently Focusing On
+- Java Programming  
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+- Data Structures  
+
+---
+
+## 🚀 Projects
+- **Food Ordering System (Java)**  
+  Console-based multi-restaurant ordering system with billing logic, input validation, and modular structure.
+
+- **Student Management System (Java)**  
+  A Java application for managing student records using core OOP concepts and structured programming.
+
+---
+
+## 🎯 Goal
+To grow into a professional software developer by consistently building meaningful projects and improving problem-solving skills.
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/mahnoor-shahbaz-se/
